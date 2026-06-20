@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/nbbb15092/abc">
-  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="ASITHA MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
+  <img src="">
 </a>
 
 <br><br>
