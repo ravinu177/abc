@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=220&section=header&text=ASITHA%20MD%20V6&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 15px;"/>
+<img src="src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Ravi Bot Banner" width="500" style="margin-top: 10px; border-radius: 8px;"/>
 
 <br><br>
 
