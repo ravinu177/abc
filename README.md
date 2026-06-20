@@ -4,8 +4,8 @@
 
 <br><br>
 
-<a href="https://github.com/nbbb15092/abc">
-  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="RAVI MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
+<a href="https://github.com/ravinu177/abc">
+  <img src="https://i.postimg.cc/509sKhX5/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="RAVI MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
 </a>
 
 <br><br>
@@ -27,7 +27,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <h3 style="color: #FF0000;">🍴 Fork The Repository</h3>
-  <a href="https://github.com/nbbb15092/abc/fork">
+  <a href="https://github.com/ravinu177/abc/fork">
     <img src="https://img.shields.io/badge/FORK%20REPO-NOW-FF0000?style=for-the-badge&logo=github&logoColor=white&height=55" alt="Fork Repo">
   </a>
   <br><br>
@@ -66,7 +66,7 @@
 <h2 align="center" style="color: #FF0000;">🔥 Deploy Now 🔥</h2>
 
 <div align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/nbbb15092/abc" target="_blank">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/ravinu177/abc" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20DEPLOY%20ON-HEROKU-8B0000?style=for-the-badge&logo=heroku&logoColor=white&height=60" alt="Deploy to Heroku">
   </a>
   <br><br>
