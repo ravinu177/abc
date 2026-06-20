@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=220&section=header&text=RAVI%20MD%20V6&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 15px;"/>
 
 <br><br>
 
 <a href="https://github.com/nbbb15092/abc">
-  <img src="src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Ravi Bot Banner" width="500" style="margin-top: 10px; border-radius: 8px;">
+  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="RAVI MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
 </a>
 
 <br><br>
@@ -21,18 +21,6 @@
   <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=red&labelColor=333333">
   <img src="https://img.shields.io/badge/Node.js-20+-FF0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000">
   <img src="https://img.shields.io/badge/Status-ACTIVE-FFD700?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000">
-</p>
-
-<p align="center">
-  <a href="https://github.com/nbbb15092/abc/stargazers">
-    <img src="https://img.shields.io/github/stars/nbbb15092/abc?style=for-the-badge&logo=github&color=FF0000&labelColor=000000">
-  </a>
-  <a href="https://github.com/nbbb15092/abc/network/members">
-    <img src="https://img.shields.io/github/forks/nbbb15092/abc?style=for-the-badge&logo=github&color=8B0000&labelColor=000000">
-  </a>
-  <a href="https://github.com/nbbb15092/abc/issues">
-    <img src="https://img.shields.io/github/issues/nbbb15092/abc?style=for-the-badge&logo=github&color=FF4500&labelColor=000000">
-  </a>
 </p>
 
 <hr style="border-color: #FF0000; margin: 30px 0; width: 80%; opacity: 0.5;">
@@ -93,6 +81,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20ASITHA-MD%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202026%20RAVI-MD%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
 
 </div>
