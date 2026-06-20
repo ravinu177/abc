@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/nbbb15092/abc">
-  <img src="">
+  <img src="src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Ravi Bot Banner" width="500" style="margin-top: 10px; border-radius: 8px;">
 </a>
 
 <br><br>
