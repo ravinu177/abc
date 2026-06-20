@@ -1,15 +1,13 @@
-name: CI Workflow
+name: Node.js CI/CD
 
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch: # ඔබට අවශ්‍ය ඕනෑම වෙලාවක manual එකක් රන් කිරීමට
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -17,10 +15,17 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        node-version: '22' # අවශ්‍ය පැකේජ සඳහා 22 භාවිතා කරන්න
 
     - name: Install dependencies
       run: npm install
 
-    - name: Run build
-      run: npm run build --if-present
+    - name: Run Bot
+      env:
+        SESSION_ID: ${{ secrets.SESSION_ID }}
+        PORT: ${{ secrets.PORT }}
+      run: |
+        # බොට් එක දිගටම ක්‍රියාත්මක වීමට node index.js යොදන්න
+        # ඔබේ ප්‍රධාන ෆයිල් එකේ නම index.js නම් එය එසේම තබන්න
+        node index.js &
+        sleep 10
