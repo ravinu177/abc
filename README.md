@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/ravinu177/abc">
-  <img src="https://i.postimg.cc/509sKhX5/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="RAVI MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
+  <img src="https://i.postimg.cc/509sKhX5/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="RAVI MD Banner" width="60%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
 </a>
 
 <br><br>
